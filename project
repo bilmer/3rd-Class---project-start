@@ -5,5 +5,14 @@
 </head>
 
 <body>
-HTML FORM EXAMPLE
+  
+  <h1> HTML FORM EXAMPLE </h1>
+
+  <form action="confirmation.html">
+    <input type= "text" name="username" id="username" value="" placeholder="Enter your username"/> <br>
+    <input type="submit" value="press me"/>
+  </form>
+
+
 </body>
+</html>

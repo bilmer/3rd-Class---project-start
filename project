@@ -9,10 +9,18 @@
   <h1> HTML FORM EXAMPLE </h1>
 
   <form action="confirmation.html">
-    <input type= "text" name="username" id="username" value="" placeholder="Enter your username"/> <br>
+    <label for="event_title">Event Title</label><br>
+    <input type= "text" name="event_title" id="event_title" value="" placeholder="i.e. Bike for the Cure"/> <br>
+
+    <input type= "date" name="event_date" id="event_date" value=""/>
+    <textarea name="description" rows="10" cols="40"/></textarea>
     <input type="submit" value="press me"/>
   </form>
 
+<textarea name="description" rows="10" cols="40"/></textarea>
+
+
+<label for="username-field"> Please enter your username:</label>
 
 </body>
 </html>

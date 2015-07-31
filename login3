@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head>
+    <title></title>
+
+      <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+      <!-- Optional theme -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+      <!-- Latest compiled and minified JavaScript -->
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+      <link rel="stylesheet" href="public/stylesheet/demows.css">
+
+      <link rel="stylesheet" href="public/stylesheet/style.css">
+
+  </head>
+
+<body>
+
+      <img class="ellebox" src="http://static1.squarespace.com/static/55164fa5e4b0392be71fc02b/t/556b3416e4b07ec484ffe911/1437950532883/?format=1500w"/>
+
+      <br>
+
+      <form class="form">
+        <fieldset class="account-info">
+            <label> Username
+            <input type="text" name="username">
+            </label>
+            <label>Password
+            <input type="password" name="password">
+            </label>
+        </fieldset>
+ 
+        <fieldset class="account-action">
+          <input class="btn" type="submit" name="submit" value="Login">
+          <label>
+          <input type="checkbox" name="remember"> Stay signed in
+          </label>
+        </fieldset>
+      </form>
+
+</body>
+
+</html>

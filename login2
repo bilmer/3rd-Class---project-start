@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+  <head>
+    <title></title>
+
+      <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+      <!-- Optional theme -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+      <!-- Latest compiled and minified JavaScript -->
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+  </head>
+
+
+<body>
+
+      <img src="http://static1.squarespace.com/static/55164fa5e4b0392be71fc02b/t/556b3416e4b07ec484ffe911/1437950532883/?format=1500w"/>
+
+      <h1>ElleBoxCo Sign Up:</h1>
+
+  <form class="form-inline">
+    <div class="form-group">
+      <label class="sr-only" for="exampleInputEmail3">Email address</label>
+      <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
+    </div>
+  
+    <div class="form-group">
+      <label class="sr-only" for="exampleInputPassword3">Password</label>
+      <input type="password" class="form-control" id="exampleInputPassword3" placeholder="Password">
+    </div>
+  
+    <div class="checkbox">
+     <label>
+      <input type="checkbox"> Remember me
+      </label>
+    </div>
+  
+  <button type="submit" class="btn btn-default">Sign in</button>
+
+  </form>
+</body>
+
+</html>
